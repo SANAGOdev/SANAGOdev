@@ -2,7 +2,7 @@
 ---
 ## About me :
 ```
-I'm a web developer who is currently learning and Epitech student for promo 2027 :)
+I'm a web developer who is currently learning and at EpiTech in Promo 2027 :)
 ```
 ## Contact me on discord :
 <img src="https://discord.c99.nl/widget/theme-4/707863977493004399.png">
