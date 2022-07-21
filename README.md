@@ -29,4 +29,3 @@ I'm a web developer who is currently learning and Epitech student for promo 2027
 ## Github stats :
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SANAGOdev&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SANAGOdev&theme=tokyonight&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)<br>
-![](https://komarev.com/ghpvc/?username=SANAGOdev&style=for-the-badge&color=652451)
