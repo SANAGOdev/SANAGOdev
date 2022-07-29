@@ -1,4 +1,4 @@
-# Hi there , I'm SANAGO 😛
+# Hi there , I'm SANAGO 😎
 ---
 ## About me:
 
