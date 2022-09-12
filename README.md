@@ -3,8 +3,7 @@
 ## About me:
 
 
-`I'm a web developer who is currently learning`<br>
-` and at EpiTech in Promo 2027 :)`
+`I'm a web developer who is currently learning :)`
 ---
 
 ## Contact me on discord :
