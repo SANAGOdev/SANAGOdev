@@ -3,7 +3,7 @@
 ## About me:
 
 
-`I'm a web developer who is currently learning :)`
+`I'm a software engineer who is currently learning `<br>`and at Epitech for promo 2027 :)`
 ---
 
 ## Contact me on discord :
