@@ -34,7 +34,8 @@
 <img src="https://cdn.discordapp.com/attachments/998966700806508684/1042939119719952496/unknown.png" height=60px width=50px> | 
 <img src="https://cdn.discordapp.com/attachments/998966700806508684/1042939754720804874/unknown.png" height=60px width=55px> | 
 <img src="https://duckduckgo.com/i/3a8cda34.png" height=60px width=50px> | 
-<img src="https://media.discordapp.net/attachments/998966700806508684/1042940125035900938/unknown.png" height=55px width=50px>
+<img src="https://media.discordapp.net/attachments/998966700806508684/1042940125035900938/unknown.png" height=55px width=50px> | 
+<img src="https://cdn.discordapp.com/attachments/1003624877758103604/1047085023750279168/unknown.png" height=55px width=50px>
 </p>
 
 ## Github stats :
