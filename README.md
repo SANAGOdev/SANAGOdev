@@ -7,7 +7,7 @@
 ---
 
 ## Contact me on discord :
-<img src="https://discord.c99.nl/widget/theme-5/707863977493004399.png">
+<img src="https://discord.c99.nl/widget/theme-3/707863977493004399.png">
 
 ## Programming languages:
 <p>
