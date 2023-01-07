@@ -38,6 +38,9 @@
 <img src="https://cdn.discordapp.com/attachments/1003624877758103604/1047085023750279168/unknown.png" height=55px width=50px>
 </p>
 
+## Codewars :
+![Codewars](https://www.codewars.com/users/SANAGOdev/badges/large)
+
 ## Github stats :
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SANAGOdev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SANAGOdev&&theme=tokyonight&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)<br>
