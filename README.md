@@ -9,7 +9,7 @@
 ## Contact me on discord :
 <img src="https://discord.c99.nl/widget/theme-3/707863977493004399.png">
 
-## Programming languages:
+## Programming languages & Frameworks:
 <p>
 <img src="https://media.discordapp.net/attachments/998966700806508684/1042937826880262305/unknown.png" height=55px width=50px> | 
 <img src="https://pluspng.com/img-png/logo-javascript-png-javascript-tutorials-400.png" height=50px width=50px> | 
