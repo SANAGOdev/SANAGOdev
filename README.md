@@ -17,7 +17,8 @@
 <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" height=50px width=50px> | 
 <img src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" height=50px width=50px> | 
 <img src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" height=50px width=50px> |
-<img src="https://s3.amazonaws.com/media-p.slid.es/uploads/40730/images/2781438/react.png" height=50px width=50px>
+<img src="https://s3.amazonaws.com/media-p.slid.es/uploads/40730/images/2781438/react.png" height=50px width=50px> |
+<img src="https://www.electronjs.org/assets/img/logo.svg" height=50px width=50px>
 </p>
 
 ## Tools :
