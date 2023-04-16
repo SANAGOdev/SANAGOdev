@@ -3,7 +3,7 @@
 ## About me:
 
 
-`I'm a Software Engineer who is currently learning `<br>`and at Epitech in the promo 2027 :)`
+`I'm a Software Engineer who is currently learning `<br>`and at Epitech :)`
 ---
 
 ## Contact me on discord :
