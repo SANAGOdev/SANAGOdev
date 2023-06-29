@@ -10,26 +10,10 @@
 <img src="https://discord.c99.nl/widget/theme-3/707863977493004399.png">
 
 ## Programming languages & Frameworks:
-<p>
-<img src="https://media.discordapp.net/attachments/998966700806508684/1042937826880262305/unknown.png" height=55px width=50px> | 
-<img src="https://pluspng.com/img-png/logo-javascript-png-javascript-tutorials-400.png" height=50px width=50px> | 
-<img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-8.png" height=50px width=44px> | 
-<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" height=50px width=50px> | 
-<img src="https://media.discordapp.net/attachments/1119201036884770877/1123702041424953496/image.png" height=60px width=60px> | 
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" height=50px width=50px> |
-<img src="https://s3.amazonaws.com/media-p.slid.es/uploads/40730/images/2781438/react.png" height=50px width=50px> |
-<img src="https://www.electronjs.org/assets/img/logo.svg" height=50px width=50px>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=c,js,html,css,sass,nodejs,react,electron)](https://skillicons.dev)
 
 ## Tools :
-
-<p>
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" height=50px width=50px> | 
-<img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" height=50px width=50px> | 
-<img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Github-512.png" height=50px width=50px> | 
-<img src="https://www.svgrepo.com/show/331488/mongodb.svg" height=50px width=50px> | 
-<img src="https://logosandtypes.com/wp-content/uploads/2020/11/npm.svg" height=50px width=50px>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,mongodb,npm)](https://skillicons.dev)
 
 ## Distros :
 <p>
