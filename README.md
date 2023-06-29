@@ -13,7 +13,7 @@
 [![My Skills](https://skillicons.dev/icons?i=c,js,html,css,sass,nodejs,react,electron)](https://skillicons.dev)
 
 ## Tools :
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,mongodb,npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,mongodb,neovim)](https://skillicons.dev)
 
 ## Distros :
 <p>
