@@ -1,7 +1,8 @@
 # Hi there , I'm SANAGO 😎
 ---
-## About me:
+<img src="https://wallpaperaccess.com/full/2825724.gif">
 
+## About me:
 
 `I'm a Software Engineer who is currently learning at Epitech :)`
 ---
