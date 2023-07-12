@@ -8,7 +8,7 @@
 ---
 
 ## Contact me on discord :
-<img src="https://discord.com/widget?id=1058067015891431514&theme=dark">
+<img src="https://discord.c99.nl/widget/theme-3/707863977493004399.png">
 
 ## Programming languages & Frameworks:
 [![My Skills](https://skillicons.dev/icons?i=c,js,html,css,sass,nodejs,react,electron)](https://skillicons.dev)
