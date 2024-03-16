@@ -29,5 +29,12 @@
 ![Codewars](https://www.codewars.com/users/SANAGOdev/badges/large)
 
 ## Github stats :
-[![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SANAGOdev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SANAGOdev&&theme=tokyonight&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)<br>
+<div style="display: flex;">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SANAGOdev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="Anurag's GitHub stats">
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SANAGOdev&&theme=tokyonight&layout=compact&langs_count=10" alt="Top Langs"">
+    </a>
+</div>
+
