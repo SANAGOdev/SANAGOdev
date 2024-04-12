@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&size=30&pause=1000&color=F7F7F7&random=false&width=435&lines=Hi+there+%2C+I'm+SANAGO+%E2%9D%84%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courgette&size=30&pause=1000&color=F7F7F7&random=false&width=435&lines=Hi+there+%2C+I'm+SANAGO+%E2%9D%84%EF%B8%8F)](https://git.io/typing-svg)
 ---
 <img src="https://wallpaperaccess.com/full/2825724.gif">
 
