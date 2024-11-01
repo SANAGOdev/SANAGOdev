@@ -4,7 +4,7 @@
 
 ## About me:
 
-`I'm a Software Engineer who is currently learning at Epitech :)`
+`I'm a Software Engineer who is currently learning :)`
 ---
 
 ## Contact me on discord :
